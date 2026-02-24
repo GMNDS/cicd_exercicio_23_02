@@ -2,4 +2,3 @@
 Repositório feito para o primeiro exercício da aula de entrega contínua da FATEC de DSM
 Adiciona uma nova linha
 Novo recurso suponho eu
-Linha que será removida
